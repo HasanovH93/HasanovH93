@@ -30,12 +30,9 @@
 <!--- Github Stats -->
 ## 🔥 Streak Stats
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovh93&theme=algolia" alt="hasanovh93" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovh93&theme=algolia" alt="hasanovh93" /></div>
 	
-	<!--- Github Stats -->
-## 🔥 Streak Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovh93&theme=algolia" alt="hasanovh93" />
+
 
 ## 🔥 Statistics
 <div align="center">
