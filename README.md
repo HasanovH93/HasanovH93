@@ -14,7 +14,7 @@
 <p align="center">
   🎓 Bachelor's in Computer Science
   <br>
-  💬 You can ask me anything <a href="https://github.com/hasan-hasanov/hasan-hasanov/issues" title="Issues">here</a>
+  💬 You can ask me anything <a href="https://github.com/hasanovh93/hasanovh93/issues" title="Issues">here</a>
 </p>
 
 <!--- Social Icons -->
@@ -28,10 +28,7 @@
 <!--- Github Stats -->
 <h2 align="center">Stats:</h2>
 <p align=center>
-	<div align=center>
-		<a href="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" title="Go to Source"> <img width="45%" align="left" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" /> </a>
-		<a href="http://github-readme-streak-stats.herokuapp.com/?user=hasan-hasanov&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=785EF0" title="Go to Source"> <img width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=hasan-hasanov&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=785EF0" /> </a>
-	</div>
+	
 	<br>
 	<br>
 	<br>
