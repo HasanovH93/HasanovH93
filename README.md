@@ -9,16 +9,12 @@
 
 
 <!--- Description -->
-<p align="center">Full time .NET developer, part time teacher, wannabe tech blogger.</p>
+<p align="center">Junior Javascript Developer</p>
 
 <p align="center">
-  🏃 Always trying to catch up with .NET
-  <br>
   🎓 Bachelor's in Computer Science
   <br>
   🎓 Master's in Integrated Computer Systems
-  <br>
-  💻 I love blogging about new technologies
   <br>
   💬 You can ask me anything <a href="https://github.com/hasan-hasanov/hasan-hasanov/issues" title="Issues">here</a>
 </p>
