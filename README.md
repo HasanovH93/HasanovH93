@@ -18,9 +18,11 @@
 </p>
 
 <!--- Social Icons -->
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Connect with me</h2>
 <a href = 'https://www.linkedin.com/in/hasanov93/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/hasanov93/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/331/331389.png"/></a> 
   
+
 <br>
 
 
