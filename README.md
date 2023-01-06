@@ -26,34 +26,9 @@
 
 
 <!--- Github Stats -->
-<h2 align="center">Stats:</h2>
-<p align=center>
-	
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<div align=center>
-		<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanov&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644"> <img align="center" width="35%" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanov&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" /> </a>
-	</div>
-</p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovh93&theme=algolia" alt="7oSkaaa" /></p>
 
-
-<!--- Repositories -->
-<h2 align="center"> Repositories: </h2>
-<br />
-<p align="center">
-	<a href="https://github.com/hasan-hasanov/ScoopBox"> <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=ScoopBox&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" /> </a> <span>&nbsp;</span>
-	<a href="https://github.com/hasan-hasanov/Boxer"> <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=Boxer&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" /> </a>
-</p>
-<p align="center">
-	<a href="https://github.com/hasan-hasanov/AirpodsBatteryIndicator"> <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=AirpodsBatteryIndicator&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" /> </a> <span>&nbsp;</span>
-	<a href="https://github.com/hasan-hasanov/blog-examples"> <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=blog-examples&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" /> </a>
-</p>
 
 ## 🔥 Languages:
 
