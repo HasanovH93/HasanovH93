@@ -27,11 +27,12 @@
 
 <!--- Github Stats -->
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovh93&theme=algolia" alt="7oSkaaa" /></p>
-<p><img align="center"
+<div align="cebter">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovh93&theme=algolia" alt="7oSkaaa" />
+<img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanovh93&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="hasanovh93" 
-    bg_color=#808080/></p>
+    bg_color=#808080/></div>
 <br>
 
 ## 🔥 Languages:
