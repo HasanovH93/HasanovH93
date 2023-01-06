@@ -14,22 +14,14 @@
 <p align="center">
   🎓 Bachelor's in Computer Science
   <br>
-  🎓 Master's in Integrated Computer Systems
-  <br>
   💬 You can ask me anything <a href="https://github.com/hasan-hasanov/hasan-hasanov/issues" title="Issues">here</a>
 </p>
 
 <!--- Social Icons -->
 <p align="center">
-  <a href="https://stackoverflow.com/users/3833086/hasan-hasanov"><img width="50px" alt="StackOverflow" title="StackOverflow" src="/images/stackoverflow.svg"/></a>
+  <a href="https://www.linkedin.com/in/hasanov93/" alt="LinkedIn" title="LinkedIn"><img width="50px" src="/images/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://hasan-hasanov.com"><img width="50px" alt="Hasan Hasanov's Blog" title="Hasan Hasanov's Blog" src="/images/web.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/hasan-hasanov-09b74166" alt="LinkedIn" title="LinkedIn"><img width="50px" src="/images/linkedin.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/hmhasanov"><img width="50px" alt="Twitter" title="Twitter" src="/images/twitter.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:hasan.mehmedov@gmail.com"><img width="50px" alt="hasan.mehmedov@gmail.com" title="hasan.mehmedov@gmail.com" src="/images/email.svg"/></a>
+  <a href="mailto:hasanovh14@gmail.com"><img width="50px" alt="hasanovh14@gmail.com" title="hasanov14@gmail.com" src="/images/email.svg"/></a>
 </p>
 
 
