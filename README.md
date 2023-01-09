@@ -34,10 +34,6 @@
 	
 
 
-## 🔥 Statistics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasanovh93&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Hasanov" height="192px"/>
-</div>
 
 
   
