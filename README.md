@@ -36,9 +36,8 @@
 
 ## 🔥 Statistics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanovh93&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="hasanovh93" 
-    bg_color=#808080/></div>
+
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanovh93&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/></div>
 <br>
 
 
