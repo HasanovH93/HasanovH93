@@ -12,7 +12,7 @@
 <p align="center">Junior Javascript Developer</p>
 
 <p align="center">
-  🎓 Bachelor's in Computer Science
+  🎓 Bachelor's in Informatics
   <br>
   💬 You can ask me anything <a href="https://github.com/hasanovh93/hasanovh93/issues" title="Issues">here</a>
 </p>
